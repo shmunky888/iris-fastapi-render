@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+fastapi
+uvicorn
+scikit-learn
+joblibnumpy
+pydantic
